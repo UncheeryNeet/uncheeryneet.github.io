@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "keV"
+title                    : "Let's be Cheery"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Junyeob Kim"
-description              : "Personal Blog"
-url                      : "https://kevsr.github.io"
+description              : "Blog"
+url                      : "https://uncheeryneet.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "KevSr/kevsr.github.io"
+repository               : "UncheeryNeet/uncheeryneet.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Junyeob Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Log of every research I have participated."
-  location         : "In Planet Earth"
+  bio              : "Logs"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/KevSr
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
