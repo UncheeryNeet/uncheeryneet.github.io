@@ -9,7 +9,7 @@ main:
  #   url: https://google.com
 
 docs:
-  - title: Getting Started
+  - title: Posts
     children:
 
   - title: Misc
