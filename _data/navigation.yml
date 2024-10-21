@@ -13,6 +13,3 @@ docs:
     children:
 
   - title: Misc
-    children:
-      - title: "intro"
-        url: misc/introduction/
