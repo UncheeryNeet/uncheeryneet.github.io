@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-last_modified_at: 2020-10-03
+last_modified_at: 2024-10-21
 sidebar:
   nav: "docs"
 ---
